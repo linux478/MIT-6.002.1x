@@ -1,5 +1,7 @@
 # Chaper 1
 ## 1.1 Power of Abstraction
 
-stem:[F = m \times a]
+<img src="https://render.githubusercontent.com/render/math?math={\sum_{d=0}^{d_{max}}}">
+<img src="https://render.githubusercontent.com/render/math?math={F%20=%20m%20times%20a}">
+
 This simple force abstraction allows us to disregard many properties of objects such as their size, shape, density, and temperature, that are immaterial to the calculation of the objects acceleration.
