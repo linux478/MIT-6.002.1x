@@ -2,6 +2,9 @@
              | 2022-05-22 | edx-week--: Read Math Review
              | 2022-05-22 | edx-week--: Read Overview
              | 2022-05-22 | edx-week--: Read Syllabus
+             | 2022-06-11 | edx-week-1: Read Chapter 1                                    | @edX |
+             | 2022-06-11 | edx-week-1: Read Chapter 2.1-2.5                              | @edX |
+             | 2022-06-11 | edx-week-1: Read Chapter 3.1-3.5                              | @edX |
              | 2022-05-31 | edx-week-1: Homework 1                                        | @edX | due=2022-06-27-13:49
              | 2022-05-31 | edx-week-1: Lab 1                                             | @edX | due=2022-06-30-18:11
   
