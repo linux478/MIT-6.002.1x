@@ -2,13 +2,7 @@
              | 2022-05-22 | edx-week--: Read Math Review
              | 2022-05-22 | edx-week--: Read Overview
              | 2022-05-22 | edx-week--: Read Syllabus
-             | 2022-05-31 | edx-week-1: Homework 1                                        | @edX | due=2022-05-31-10:38
-             | 2022-05-31 | edx-week-1: Lab 1                                             | @edX | due=2022-05-31-10:38
-             | 2022-06-03 | edx-week-2: Homework 2                                        | @edX | due=2022-06-03-15:00
-             | 2022-06-03 | edx-week-2: Lab 2                                             | @edX | due:2022-06-03-15:00
-             | 2022-06-06 | edx-week-3: Homework 3                                        | @edX | due:2022-06-06-19:22
-             | 2022-06-06 | edx-week-3: Lab 3                                             | @edX | due:2022-06-06-19:22
-             | 2022-06-09 | edx-week-4: Homework 4                                        | @edX | due:2022-06-09-23:43 PM EDT
-             | 2022-06-09 | edx-week-4: Lab 4                                             | @edX | due:2022-06-09-23:43
-             | 2022-06-09 | edx-week-5: Final                                             | @edX | due:2022-06-19-12:49
+             | 2022-05-31 | edx-week-1: Homework 1                                        | @edX | due=2022-06-27-13:49
+             | 2022-05-31 | edx-week-1: Lab 1                                             | @edX | due=2022-06-30-18:11
+  
 x 2022-05-22 | 2022-05-22 | Go thru DemoX at https://www.edx.org/course/demox-edx-demox-1 | @edX |
