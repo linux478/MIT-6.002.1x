@@ -25,3 +25,6 @@ The lumped circuit abstraction - Capped a set of lumped elements that obey the l
 ## 1.3 The Lumped Matter Discipline
 
 The voltage, the current, and the resistance are defined for an element only under certain constraints that we collectively call the lumped matter discipline (LMD).
+
+$V = I \times R$
+
