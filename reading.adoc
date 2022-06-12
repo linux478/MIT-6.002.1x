@@ -5,3 +5,5 @@
 $F = m \times a$
 
 This simple force abstraction allows us to disregard many properties of objects such as their size, shape, density, and temperature, that are immaterial to the calculation of the objects acceleration.
+
+The discipline of discretization states that we choose to deal with discrete elements or ranges and ascribe a single value to each discrete element or range.
