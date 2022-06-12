@@ -49,3 +49,5 @@ The total amount of energy a battery can store, often measured in joules.
 The power delivered by the battery is the product of the voltage and the current:
 
 $\rho = V \times I$
+
+Power is measured in watts.
