@@ -32,3 +32,7 @@ Defining a current through the element means that the current in must equal the 
 Therefore the current is constant and does not change.
 
 ## 1.4 Limitations Often Lumped Circuit Abstraction
+
+## 1.5 Practical Two-Terminal Elements
+
+
