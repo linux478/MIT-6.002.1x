@@ -11,3 +11,6 @@ The set of abstractions that transition from science to engineering and insulate
 Discretization is also referred to as lumping.
 
 The discipline of discretization states that we choose to deal with discrete elements or ranges and ascribe a single value to each discrete element or range.
+
+## 1.2 The Lumped Circuit Abstraction
+
