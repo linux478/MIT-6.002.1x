@@ -51,3 +51,8 @@ The power delivered by the battery is the product of the voltage and the current
 $\rho = V \times I$
 
 Power is measured in watts.
+
+If a constant amount of power $\rho$ is delivered over an interval T, the energy $w$ supplied is
+
+$w = \rho \times T$
+
