@@ -28,3 +28,6 @@ The voltage, the current, and the resistance are defined for an element only und
 
 $V = I \times R$
 
+Defining a current through the element means that the current in must equal the current out.
+Therefore the current is constant and does not change.
+
