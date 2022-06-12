@@ -14,3 +14,5 @@ The discipline of discretization states that we choose to deal with discrete ele
 
 ## 1.2 The Lumped Circuit Abstraction
 
+$R = \frac{V}{L}$
+
