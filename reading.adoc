@@ -41,3 +41,5 @@ Terminals are paired together in a natural way to form ports.
 These ports offer an alternative view of how electronic access is made to an element.
 
 ### 1.5.1 Batteries
+
+To obtain a larger voltage, several cells can be connected in series: the positive terminal of the first cell connected to the negative terminal of the second cell, and so forth.
