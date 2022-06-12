@@ -35,4 +35,4 @@ Therefore the current is constant and does not change.
 
 ## 1.5 Practical Two-Terminal Elements
 
-
+Electronic access to an element is made through its terminals.
