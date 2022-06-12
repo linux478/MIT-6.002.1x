@@ -43,3 +43,5 @@ These ports offer an alternative view of how electronic access is made to an ele
 ### 1.5.1 Batteries
 
 To obtain a larger voltage, several cells can be connected in series: the positive terminal of the first cell connected to the negative terminal of the second cell, and so forth.
+
+The total amount of energy a battery can store, often measured in joules.
