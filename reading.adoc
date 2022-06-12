@@ -17,3 +17,7 @@ The discipline of discretization states that we choose to deal with discrete ele
 $R = \frac{V}{L}$
 
 $I = \frac{V}{R}$
+
+The ratio is a constant (called the resistance R) only for lumped elements that obey Ohm's law.
+
+The lumped circuit abstraction - Capped a set of lumped elements that obey the lumped matter discipline using ideal wires to form an assembly that performs a specific function results in the lumped circuit abstraction.
