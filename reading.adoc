@@ -16,3 +16,4 @@ The discipline of discretization states that we choose to deal with discrete ele
 
 $R = \frac{V}{L}$
 
+$I = \frac{V}{R}$
