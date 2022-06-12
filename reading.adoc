@@ -6,4 +6,8 @@ $F = m \times a$
 
 This simple force abstraction allows us to disregard many properties of objects such as their size, shape, density, and temperature, that are immaterial to the calculation of the objects acceleration.
 
+The set of abstractions that transition from science to engineering and insulate the engineer from scientific minutiae are often derived through the discretization discipline.
+
+Discretization is also referred to as lumping.
+
 The discipline of discretization states that we choose to deal with discrete elements or ranges and ascribe a single value to each discrete element or range.
