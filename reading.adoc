@@ -31,3 +31,4 @@ $V = I \times R$
 Defining a current through the element means that the current in must equal the current out.
 Therefore the current is constant and does not change.
 
+## 1.4 Limitations Often Lumped Circuit Abstraction
