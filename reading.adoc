@@ -36,3 +36,6 @@ Therefore the current is constant and does not change.
 ## 1.5 Practical Two-Terminal Elements
 
 Electronic access to an element is made through its terminals.
+
+Terminals are paired together in a natural way to form ports.
+These ports offer an alternative view of how electronic access is made to an element.
