@@ -56,3 +56,15 @@ If a constant amount of power $\rho$ is delivered over an interval T, the energy
 
 $w = \rho \times T$
 
+The battery delivers one joule of energy if it supplies one watt of power over one second.
+Thus, joules and watt-seconds are equivalent units.
+
+#### Example 1.1 A Lithium-ion Battery
+
+A Lithium-Ion(Li-Ion) battery pack for a camcorder is rated as 7.2 V and 5 W-hours. What are its equivalent ratings in mA-hours and joules?
+
+joule(J) is equivalent to a W-second.
+
+5 W-hours = $5\text{watt-}\cancel{hr} \times \frac{60s}{1\cancel{min}} \times \frac{60\cancel{mins}}{1\cancel{hr}}$
+
+
